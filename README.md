@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-This is just a test
+My Github Stats
 
 [![KevinWang2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWang2003&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+Languages I have wasted my time on.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWang2003&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+Useless crap.
 
 [![KevinWang2003's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinWang2003&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
