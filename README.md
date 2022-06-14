@@ -2,6 +2,9 @@
 
 This is just a test
 
+[![KevinWang2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWang2003&theme=radical)](https://github.com/KevinWang2003/github-readme-stats)
+
+
 <!--
 **KevinWang2003/KevinWang2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
