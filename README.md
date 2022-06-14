@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinWang2003&show_icons=true&theme=chartreuse-dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWang2003&theme=chartreuse-dark&langs_count=10&layout=compact)
+
+![Zirconics's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinWang2003&theme=chartreuse-dark&layout=compact)
+
+
 <!--
 **KevinWang2003/KevinWang2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
